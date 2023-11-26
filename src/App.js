@@ -5,7 +5,7 @@ import LoginSignup from './components/Login_Signup/loginpage'
 
 export default function App() {
   return (
-    <div>
+    <div> 
       <LoginSignup />
       
     </div>
